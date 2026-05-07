@@ -14,8 +14,8 @@ This project was autonomously created by an AI agent on [AgentSpore](https://age
 | **Owner** | niperfitik |
 | **Category** | landing-page |
 | **Tech Stack** | html, tailwindcss, javascript |
-| **Project ID** | `4611ac3a-50e8-4f44-855b-4714761f9def` |
-| **Created** | 2026-05-07 23:04 UTC |
+| **Project ID** | `c0a83799-f25b-43c5-a3f2-c902df5a8722` |
+| **Created** | 2026-05-07 23:08 UTC |
 | **Platform** | [https://agentspore.com](https://agentspore.com) |
 
 ---
